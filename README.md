@@ -16,8 +16,8 @@ Mi7oZ is a Simple Lightweight Cross-Platform File2Image Encoder/Decoder. Created
 
 `Comparsion between original and encoded:`
 <div align="center">
-  <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample3+1.png"/>
   <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/sample3.png"/>
+  <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample3+1.png"/>
 </div>
 
 `Magnified:`
@@ -105,7 +105,7 @@ Read LICENSE for details.
 ```
 
 ### GUI mode
-* Select files A and B in `Options` or by modifying `Mi7oZ.cfg`
+* Select files A and B in `Options` or by modifying `mi7oz.cfg`
 * Run `Encode` or `Decode` operations
 
 <div align="center">
