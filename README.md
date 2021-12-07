@@ -8,31 +8,31 @@ Mi7oZ is a Simple Lightweight Cross-Platform File2Image Encoder/Decoder. Created
 ## How it works?
 
 ### Default
-`Let's say: you have 2 images and you encode second one into the first one as RGB noise:`
+Let's say: you have 2 images and you encode second one into the first one as RGB noise:
 <div align="center">
   <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/sample3.png"/>
   <img width=128 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/sample1.png"/>
 </div>
 
-`Comparsion between original and encoded:`
+Comparsion between original and encoded:
 <div align="center">
   <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/sample3.png"/>
   <img width=174 height=128 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample3+1.png"/>
 </div>
 
-`Magnified:`
+Magnified:
 <div align="center">
   <img width=197 height=146 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample3+1_1.png"/>
   <img width=228 height=146 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample3+1_2.png"/>
 </div>
 
-`Every pixel contains 3 encrypted bytes of encoded file. The main thing is that with Mi7oZ you are able to encode any type of file (max. ~15MB) into any image (resolution must be enough to fit a file). Let's encode flowers picture into black square (original and encoded):`
+Every pixel contains 3 encrypted bytes of encoded file. The main thing is that with Mi7oZ you are able to encode any type of file (max. ~15MB) into any image (resolution must be enough to fit a file). Let's encode flowers picture into black square (original and encoded):
 <div align="center">
   <img width=180 height=180 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/sample2.png"/>
   <img width=180 height=180 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample2+3.png"/>
 </div>
 
-`If we zoom in, we'll be able to see data pixels:`
+If we zoom in, we'll be able to see data pixels:
 <div align="center">
   <img width=180 height=180 src="https://github.com/aolvos/Mi7oZ/blob/main/samples/merged/sample2+3_1.png"/>
 </div>
@@ -112,7 +112,7 @@ Read LICENSE for details.
   <img width=582 height=480 src="https://github.com/aolvos/Mi7oZ/blob/main/misc/gui.png"/>
 </div>
 
-`So, that's it :) Now you can hide your files inside your photos. Have fun!`
+So, that's it :) Now you can hide your files inside your photos. Have fun!
 
 ## License
 GNU General Public License v3.0\
